@@ -42,6 +42,17 @@
    "cover": "covers/cocuklara-sefkat.webp"
   },
   {
+   "slug": "deneme-hikayesi",
+   "title": "Deneme Hikayesi (Uzaktan Eklendi)",
+   "category": "ahlak",
+   "body": "Bu hikaye, uzaktan içerik sisteminin çalıştığını doğrulamak için eklenmiş bir deneme kaydıdır.\n\nUygulama güncellemesi yapılmadan, yalnızca GitHub deposuna eklenerek listede göründüyse sistem doğru çalışıyor demektir.\n\nBu kayıt doğrulamadan sonra depodan silinecektir.",
+   "attribution": "Felak içerik ekibi — deneme kaydı",
+   "references": [
+    "Deneme"
+   ],
+   "cover": "covers/deneme-hikayesi.webp"
+  },
+  {
    "slug": "ebu-zer-ve-hizmetcisi",
    "title": "Ebû Zer ve Hizmetçisinin Elbisesi",
    "category": "sahabe",
